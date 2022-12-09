@@ -2,7 +2,7 @@
 
 **Doctoral Researcher at LMU Munich** <br>
 [Department of Sociology](https://www.en.soziologie.uni-muenchen.de/index.html) <br>
-Dissertation Project: Enhancing the Robustness of Observational Social Science Research by Computational Multi-Model Analyses [META-REP](https://www.ls4.soziologie.uni-muenchen.de/aktuelle_forschung/rob-meta-rep/index.html)
+Dissertation Project: Enhancing the Robustness of Observational Social Science Research by Computational Multi-Model Analyses ([META-REP](https://www.ls4.soziologie.uni-muenchen.de/aktuelle_forschung/rob-meta-rep/index.html))
 <br>
 
 **Research Interests**<br>
