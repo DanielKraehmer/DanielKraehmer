@@ -7,4 +7,4 @@ Enhancing the Robustness of Observational Social Science Research by Computation
 **Research Interests**<br>
 Quantitative Social Science, Reproducibility, Replicability, Open Science, Multiverse Analyses, Coding, Stata
 
-You can find me on [OSF](osf.io/q9f8s).
+You can find me on [OSF](https://www.osf.io/q9f8s).
